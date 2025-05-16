@@ -9,5 +9,5 @@ Tipos de IA Presentes Atualmente:
 -IA Sarcástica
 -IA Carioca
 -IA Nordestina
-
+-
 As Versões da Lotus IA estarão neste link: https://github.com/TavaresLimn/Lotus-IA/releases
